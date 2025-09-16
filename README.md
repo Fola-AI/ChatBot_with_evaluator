@@ -5,6 +5,9 @@ sdk: gradio
 sdk_version: 5.44.1
 ---
 
+<img width="1451" height="1190" alt="Screenshot 2025-09-16 at 12 40 38" src="https://github.com/user-attachments/assets/e1e43fc5-afe7-465e-895a-374e7937f5d9" />
+
+
 
 # 🤖 AI Chatbot with Cross-Model Evaluator
 
